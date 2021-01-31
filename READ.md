@@ -5,3 +5,5 @@ did some changes to feature2 branch.
 did some changes to feature1 branch.
 
 did some changes to feature1 branch again.
+
+did some changes to hotfix branch.
